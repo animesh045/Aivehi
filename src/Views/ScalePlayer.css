@@ -1,0 +1,51 @@
+.main-select {
+  color: black;
+  flex-shrink: 1;
+}
+
+.play_buttons_container {
+  display: flex;
+  flex-direction: row;
+  height: auto;
+}
+.scalesForm {
+  width: 100px;
+  outline-color: black;
+  flex-shrink: 1;
+}
+
+.speedForm {
+  display: "flex";
+  flex-shrink: 2;
+}
+.main-select {
+  height: 70px;
+  font-size: 20px;
+  display: flex;
+  color: white;
+  flex-shrink: 2;
+}
+.play_buttons_container {
+  margin-top: 50px;
+  flex-shrink: 1;
+}
+.select-container {
+  display: "flex";
+  flex-direction: row;
+}
+.fingering-paper {
+  max-width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+
+  height: 100px;
+}
+.fingering {
+  text-align: center;
+  color: white;
+  font-size: 20 px;
+  padding: 10px;
+}
